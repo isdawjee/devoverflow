@@ -1,12 +1,12 @@
 const Home = () => {
 	return (
 		<>
-			<h1 className="text-3xl text-white font-black">
-				I was scared to take a risk, and big frameworks covered up what I needed to learn.
+			<h1 className="text-3xl font-black text-white">
+				Learning Next.js with JSMasteryPro
 			</h1>
-			<p className="text-white">They would work better for me when I have more experience</p>
+			<p className="text-white">Really good tools for code quality</p>
 		</>
-	)
-}
+	);
+};
 
-export default Home
+export default Home;
